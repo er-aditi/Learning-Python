@@ -1,0 +1,5 @@
+data = list(range(1, 10000))
+print(data)
+print(max(data))
+print(min(data))
+print(sum(data))
