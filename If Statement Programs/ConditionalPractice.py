@@ -1,19 +1,46 @@
 # Tests for equality and inequality with strings
-# name = 'aditi'
-# print(name == 'aditi')
-# if name == 'aditii':
-#     print("It is correct")
-#     name = 'jain'
-# print(name == 'jain')
+name = 'Aditi'
+print(name == 'aditi')
+if name == 'aditii':
+    print("It is correct")
+    name = 'jain'
+print(name == 'jain')
 
-names = ["aaa", "bbb", "ccc", "dddd", "eeee", "ffff", "gggg", "hhhh", "iiii", "jjjj"]
+# Tests using the lower() function
+if name.lower() == 'aditi':
+    print(name)
 
-for index in range(0, len(names)):
-    print(str(index + 1) + ". " + names[index])
+print(name.lower() == 'aditi')
 
-print("")
-num = 0
-for name in names:
-    print(str(num + 1) + ". " + name)
-    num += 1
+# • Numerical tests involving equality and inequality, greater than and
+# less than, greater than or equal to, and less than or equal to
 
+num = 58
+print(num == 56)
+print(num == 58)
+print(num <= 55)
+if num >= 58:
+    print(" it is true")
+else:
+    print("You are correct")
+
+# Tests using the and keyword and the or keyword
+print(num)
+if num == 34 and num <= 55:
+    print(" and operator  ")
+
+if num == 56 or num <= 99:
+    print("or operator")
+
+# Test whether an item is in a list
+values = [1, 5, 9, 88]
+for value in values:
+    if value == 5:
+        print("data in correct")
+    else:
+        print("data not mismatched")
+
+# Test whether an item is not in a list
+if value not in values:
+    value == 65
+    print("data mismatched")
