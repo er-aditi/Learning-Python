@@ -16,3 +16,7 @@ print(num_5)
 
 sum_1 = num_1+num_2+num_3+num_4+num_5
 print("Sum of 5 digit is = " + str(sum_1))
+
+# Reverse
+rev = num_5*10000 + num_4*1000 + num_3*100 + num_2*10 + num_1
+print(rev)
