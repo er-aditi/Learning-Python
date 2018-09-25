@@ -2,19 +2,18 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/List Working Programs/List_Looping1..py" line="19" />
+    <bookmark url="file://$PROJECT_DIR$/While_Loop_Programs/Power.py" line="5" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2da4652-528c-4c4a-be97-07b7b29f2dac" name="Default" comment="Nesting">
-      <change afterPath="$PROJECT_DIR$/Dictionaries_Programs/6-10Favorite Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries_Programs/Cities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_Programs/Break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_Programs/Continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_Programs/Flag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_Programs/Infinity_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_Programs/Movie _Tickets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_Programs/Pizza_Toppings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_Programs/User_Choose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_Programs/While_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_Practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_Practice/print_tableRange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_Practice/range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_Practice/range_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_Practice/table_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_Programs/Armstrong_500.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_Programs/Prime_Number Check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_Programs/Prime_Number_1000.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/stpl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/stpl.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -28,135 +27,124 @@
     <session id="-460376767">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="27" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="5" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.56" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="75" />
-          <entry key="py" value="25645" />
-          <entry key="txt" value="70" />
+          <entry key="dummy" value="77" />
+          <entry key="py" value="35593" />
+          <entry key="txt" value="191" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="145" />
-          <entry key="Python" value="25645" />
+          <entry key="PLAIN_TEXT" value="268" />
+          <entry key="Python" value="35593" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="134" />
+          <entry key="Python" value="329" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="134" />
+          <entry key="py" value="329" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/While_Loop_Programs/User_Choose.py">
+        <entry file="file://$PROJECT_DIR$/Input Function/input_age.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Input Function/Input_message.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Input Function/input_name.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Input Function/Multiples_of_Ten.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Input Function/Rental_Car.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/For_Practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="17">
+              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Flag.py">
+        <entry file="file://$PROJECT_DIR$/For_Practice/table_print.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="34">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Break.py">
+        <entry file="file://$PROJECT_DIR$/For_Practice/range_table.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Continue.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Pizza_Toppings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Movie _Tickets.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Infinity_Loop.py">
+        <entry file="file://$PROJECT_DIR$/For_Practice/print_tableRange.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="68">
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Loop_Condition_Check.py">
+        <entry file="file://$PROJECT_DIR$/For_Practice/range.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Looping_Sorted.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Set_unique.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -170,6 +158,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Python Workspace\Learning\While_Loop_Programs</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -179,63 +175,62 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Practice_Programs/Prac1.py" />
-        <option value="$PROJECT_DIR$/Practice_Programs/Denominations.py" />
-        <option value="$PROJECT_DIR$/Practice_Programs/If_profit.py" />
-        <option value="$PROJECT_DIR$/Practice_Programs/Odd _or_Even.py" />
-        <option value="$PROJECT_DIR$/Practice_Programs/Triangle.py" />
-        <option value="$PROJECT_DIR$/Practice_Programs/Youngest.py" />
-        <option value="$PROJECT_DIR$/Practice_Programs/Absolute.py" />
-        <option value="$PROJECT_DIR$/Practice_Programs/Area_PerameterOfRectangle.py" />
-        <option value="$PROJECT_DIR$/Practice_Programs/Fine_Library.py" />
-        <option value="$PROJECT_DIR$/Practice_Programs/Cordinate_Match.py" />
-        <option value="$PROJECT_DIR$/Practice_Programs/Check_value.py" />
-        <option value="$PROJECT_DIR$/Practice_Programs/Company_Policy.py" />
-        <option value="$PROJECT_DIR$/Practice_Programs/Student_Passed.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Simple_Dictionaries.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Simple1.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Add_New_Value.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Empty_List.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Modifying.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Check_Speed.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Del_Key_value.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Favorite_Languages.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Person.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Favorite_Numbers.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Glossary.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Simple_Looping.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Looping1.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Looping_Key_value.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Loop_Condition_Check.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Looping_Sorted.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Set_unique.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Glossary_2.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Rivers.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Polling.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Nesting_List.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Nesting_range_List.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Nesting_Condition.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Nesting_ListinDictonaries.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Nesting_listin1.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Nesting_Dict_to_Dict.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Nesting_People.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Nesting_Favorite Places.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/6-10Favorite Numbers.py" />
-        <option value="$PROJECT_DIR$/Dictionaries_Programs/Cities.py" />
-        <option value="$PROJECT_DIR$/While_Loop_Programs/While_1.py" />
-        <option value="$PROJECT_DIR$/While_Loop_Programs/User_Choose.py" />
-        <option value="$PROJECT_DIR$/While_Loop_Programs/Flag.py" />
-        <option value="$PROJECT_DIR$/While_Loop_Programs/Break.py" />
-        <option value="$PROJECT_DIR$/While_Loop_Programs/Continue.py" />
-        <option value="$PROJECT_DIR$/While_Loop_Programs/Pizza_Toppings.py" />
-        <option value="$PROJECT_DIR$/While_Loop_Programs/Movie _Tickets.py" />
-        <option value="$PROJECT_DIR$/While_Loop_Programs/Infinity_Loop.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Print_Value.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Print_ReverseNum.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Reverse_Even.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Even_While.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/User_input.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/print.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Factorial_Number.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/While_Table.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Add_Numver.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Sum_1.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Factorial.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Power.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Armstrong.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Armstrong_1.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Matchstick.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Number_Find.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/List_Print.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Max.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Largest_Smallest.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Prime.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Check_Prime.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Print_Number.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Number_Print.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Number_inLine.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/New_Line_Print.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Print_Num.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Reverse_Num.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Num_10101.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Prog.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Pattern.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Pattern_Reverse.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Pattern_1.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Print_1.py" />
+        <option value="$PROJECT_DIR$/List_Programs/List_NameWhile.py" />
+        <option value="$PROJECT_DIR$/List_Programs/Highest.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Prime_Number.py" />
+        <option value="$PROJECT_DIR$/Practice_Programs/Number_Sum.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/Add_Number.py" />
+        <option value="$PROJECT_DIR$/Practice_Programs/While_NumberSum.py" />
+        <option value="$PROJECT_DIR$/Funtions/Simple_1.py" />
+        <option value="$PROJECT_DIR$/Funtions/Passing_Information.py" />
+        <option value="$PROJECT_DIR$/Funtions/Message.py" />
+        <option value="$PROJECT_DIR$/Funtions/Favorite Book.py" />
+        <option value="$PROJECT_DIR$/Practice_Programs/Armstrong_500.py" />
+        <option value="$PROJECT_DIR$/Practice_Programs/Prime_Number Check.py" />
+        <option value="$PROJECT_DIR$/Practice_Programs/Prime_Number_1000.py" />
+        <option value="$PROJECT_DIR$/For_Practice.py" />
+        <option value="$PROJECT_DIR$/For_Practice/table_print.py" />
+        <option value="$PROJECT_DIR$/For_Practice/range.py" />
+        <option value="$PROJECT_DIR$/For_Practice/range_table.py" />
+        <option value="$PROJECT_DIR$/For_Practice/print_tableRange.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
+    <option name="x" value="-5" />
     <option name="width" value="1284" />
     <option name="height" value="728" />
   </component>
@@ -247,7 +242,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,12 +252,13 @@
             <path>
               <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="While_Loop_Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="For_Practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,8 +286,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Infinity_Loop">
-    <configuration name="Break" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.print_tableRange">
+    <configuration name="For_Practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,11 +295,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/While_Loop_Programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/While_Loop_Programs/Break.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_Practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +308,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Continue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="print_tableRange" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,11 +316,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/While_Loop_Programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/For_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/While_Loop_Programs/Continue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_Practice/print_tableRange.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,7 +329,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Infinity_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="range" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -342,11 +337,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/While_Loop_Programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/For_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/While_Loop_Programs/Infinity_Loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_Practice/range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,7 +350,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Movie _Tickets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="range_table" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -363,11 +358,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/While_Loop_Programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/For_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/While_Loop_Programs/Movie _Tickets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_Practice/range_table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,7 +371,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pizza_Toppings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="table_print" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -384,11 +379,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/While_Loop_Programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/For_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/While_Loop_Programs/Pizza_Toppings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_Practice/table_print.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -398,19 +393,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Break" />
-      <item itemvalue="Python.Continue" />
-      <item itemvalue="Python.Pizza_Toppings" />
-      <item itemvalue="Python.Movie _Tickets" />
-      <item itemvalue="Python.Infinity_Loop" />
+      <item itemvalue="Python.For_Practice" />
+      <item itemvalue="Python.table_print" />
+      <item itemvalue="Python.range" />
+      <item itemvalue="Python.range_table" />
+      <item itemvalue="Python.print_tableRange" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Infinity_Loop" />
-        <item itemvalue="Python.Movie _Tickets" />
-        <item itemvalue="Python.Pizza_Toppings" />
-        <item itemvalue="Python.Continue" />
-        <item itemvalue="Python.Break" />
+        <item itemvalue="Python.print_tableRange" />
+        <item itemvalue="Python.range_table" />
+        <item itemvalue="Python.table_print" />
+        <item itemvalue="Python.range" />
+        <item itemvalue="Python.For_Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -593,26 +588,111 @@
       <option name="project" value="LOCAL" />
       <updated>1535027070408</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="While _loop_End">
+      <created>1535538114865</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1535538114865</updated>
+    </task>
+    <task id="LOCAL-00026" summary="While Loop">
+      <created>1535610137870</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1535610137870</updated>
+    </task>
+    <task id="LOCAL-00027" summary="While Practice">
+      <created>1535632046807</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1535632046807</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Nesting">
+      <created>1535717932666</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1535717932682</updated>
+    </task>
+    <task id="LOCAL-00029" summary="While">
+      <created>1536066238402</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1536066238402</updated>
+    </task>
+    <task id="LOCAL-00030" summary="While Practice">
+      <created>1536152560865</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1536152560865</updated>
+    </task>
+    <task id="LOCAL-00031" summary="While">
+      <created>1536232776421</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1536232776421</updated>
+    </task>
+    <task id="LOCAL-00032" summary="while Practice 1">
+      <created>1536315285531</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1536315285531</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Nesting">
+      <created>1536315541687</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1536315541687</updated>
+    </task>
+    <task id="LOCAL-00034" summary="while pattern">
+      <created>1536670316615</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1536670316615</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Function">
+      <created>1537188961885</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1537188961885</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23015873" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27380952" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5123077" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39846155" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32923076" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32923076" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3276923" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.3276923" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32923076" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3276923" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -636,364 +716,299 @@
     <MESSAGE value="office Practice C" />
     <MESSAGE value="office Input" />
     <MESSAGE value="Dictonaries" />
+    <MESSAGE value="While _loop_End" />
+    <MESSAGE value="While Loop" />
+    <MESSAGE value="While Practice" />
+    <MESSAGE value="While" />
+    <MESSAGE value="while Practice 1" />
     <MESSAGE value="Nesting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nesting" />
+    <MESSAGE value="while pattern" />
+    <MESSAGE value="Function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Function" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/If_profit.py">
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Matchstick.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Num_10101.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Pattern_Reverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Pattern_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Print_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Print_Value.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/While_Table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/WhileLoop_List&amp;Dict.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/While_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/List &amp; Dictonaries/Filling_a_Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/List &amp; Dictonaries/Moving_Items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/List &amp; Dictonaries/Remove.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/User_Choose.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/List &amp; Dictonaries/Deli.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Odd _or_Even.py">
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Number_Print.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/User_input.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/List &amp; Dictonaries/Removing_Specific_value.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Youngest.py">
+    <entry file="file://$PROJECT_DIR$/Practice_Programs/Number_Sum.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List_Programs/List_NameWhile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Absolute.py">
+    <entry file="file://$PROJECT_DIR$/Funtions/Passing_Information.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Area_PerameterOfRectangle.py">
+    <entry file="file://$PROJECT_DIR$/Funtions/Message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/Favorite Book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Armstrong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Armstrong_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/Simple_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Add_Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Check_Prime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Prime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Prime_Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Check_value.py">
+    <entry file="file://$PROJECT_DIR$/List_Programs/Highest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Company_Policy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Cordinate_Match.py">
+    <entry file="file://$PROJECT_DIR$/Practice_Programs/Armstrong_500.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Fine_Library.py">
+    <entry file="file://$PROJECT_DIR$/Practice_Programs/Prime_Number Check.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice_Programs/Prime_Number_1000.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice_Programs/Triangle.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice_Programs/While_NumberSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="85">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Prac1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Practice_Programs/Test.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Sum_lastDigit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Practice_Programs/Sum_of_Digits&amp;Reverse.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice_Programs/Sum3_Number.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice_Programs/Student_Passed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Simple_Dictionaries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Input Function/Even or odd.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Simple1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Input Function/input_age.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Add_New_Value.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Input Function/Input_message.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Empty_List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Input Function/input_name.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Modifying.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Input Function/Multiples_of_Ten.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Check_Speed.py">
+    <entry file="file://$PROJECT_DIR$/Input Function/Rental_Car.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Practice/range.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="78" selection-start-column="78" selection-end-column="78" />
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Del_Key_value.py">
+    <entry file="file://$PROJECT_DIR$/For_Practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="17">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Person.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Simple_Looping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Looping1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Glossary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Glossary_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Rivers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Polling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="75" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Nesting_List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Looping_Key_value.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Nesting_range_List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Nesting_Condition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Nesting_ListinDictonaries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Nesting_listin1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Nesting_Dict_to_Dict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Nesting_People.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Nesting_Favorite Places.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Favorite_Languages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="70" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Favorite_Numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/6-10Favorite Numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Cities.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/While_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Loop_Condition_Check.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Looping_Sorted.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries_Programs/Set_unique.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/User_Choose.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Continue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Flag.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Pizza_Toppings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Movie _Tickets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Infinity_Loop.py">
+    <entry file="file://$PROJECT_DIR$/For_Practice/table_print.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Practice/range_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Practice/print_tableRange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
