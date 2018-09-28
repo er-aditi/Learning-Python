@@ -5,16 +5,10 @@
     <bookmark url="file://$PROJECT_DIR$/While_Loop_Programs/Power.py" line="5" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2da4652-528c-4c4a-be97-07b7b29f2dac" name="Default" comment="Nesting">
-      <change afterPath="$PROJECT_DIR$/For_Practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_Practice/print_tableRange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_Practice/range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_Practice/range_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_Practice/table_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_Programs/Armstrong_500.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_Programs/Prime_Number Check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_Programs/Prime_Number_1000.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/stpl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/stpl.xml" afterDir="false" />
+    <list default="true" id="e2da4652-528c-4c4a-be97-07b7b29f2dac" name="Default" comment="Practice">
+      <change afterPath="$PROJECT_DIR$/For_Practice/List_Practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_Practice/Prime_300.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_Programs/test_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,10 +21,11 @@
     <session id="-460376767">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="30" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="2" />
@@ -48,30 +43,31 @@
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.56" value="1" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="77" />
-          <entry key="py" value="35593" />
-          <entry key="txt" value="191" />
+          <entry key="py" value="35676" />
+          <entry key="txt" value="200" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="268" />
-          <entry key="Python" value="35593" />
+          <entry key="PLAIN_TEXT" value="277" />
+          <entry key="Python" value="35676" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="329" />
+          <entry key="Python" value="332" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="329" />
+          <entry key="py" value="332" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -79,21 +75,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Input Function/input_age.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Input Function/Input_message.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Input Function/input_name.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Input Function/Multiples_of_Ten.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -108,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/For_Practice.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -117,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/For_Practice/table_print.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -126,16 +107,39 @@
         <entry file="file://$PROJECT_DIR$/For_Practice/range_table.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/For_Practice/Prime_300.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/For_Practice/print_tableRange.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/For_Practice/List_Practice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice_Programs/test_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -175,9 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/While_Loop_Programs/Print_Value.py" />
-        <option value="$PROJECT_DIR$/While_Loop_Programs/Print_ReverseNum.py" />
-        <option value="$PROJECT_DIR$/While_Loop_Programs/Reverse_Even.py" />
         <option value="$PROJECT_DIR$/While_Loop_Programs/Even_While.py" />
         <option value="$PROJECT_DIR$/While_Loop_Programs/User_input.py" />
         <option value="$PROJECT_DIR$/While_Loop_Programs/print.py" />
@@ -226,6 +227,9 @@
         <option value="$PROJECT_DIR$/For_Practice/range.py" />
         <option value="$PROJECT_DIR$/For_Practice/range_table.py" />
         <option value="$PROJECT_DIR$/For_Practice/print_tableRange.py" />
+        <option value="$PROJECT_DIR$/For_Practice/List_Practice.py" />
+        <option value="$PROJECT_DIR$/Practice_Programs/test_1.py" />
+        <option value="$PROJECT_DIR$/For_Practice/Prime_300.py" />
       </list>
     </option>
   </component>
@@ -286,8 +290,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.print_tableRange">
-    <configuration name="For_Practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test_1">
+    <configuration name="List_Practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,11 +299,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/For_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_Practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_Practice/List_Practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,27 +325,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_Practice/print_tableRange.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="range" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/For_Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_Practice/range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -392,20 +375,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_Programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_Programs/test_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.For_Practice" />
       <item itemvalue="Python.table_print" />
-      <item itemvalue="Python.range" />
       <item itemvalue="Python.range_table" />
       <item itemvalue="Python.print_tableRange" />
+      <item itemvalue="Python.List_Practice" />
+      <item itemvalue="Python.test_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_1" />
+        <item itemvalue="Python.List_Practice" />
         <item itemvalue="Python.print_tableRange" />
         <item itemvalue="Python.range_table" />
         <item itemvalue="Python.table_print" />
-        <item itemvalue="Python.range" />
-        <item itemvalue="Python.For_Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -665,7 +669,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537188961885</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Practice">
+      <created>1537884223418</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1537884223434</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TodoView">
@@ -679,13 +690,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27380952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28809524" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5123077" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5123077" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39846155" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -724,26 +736,10 @@
     <MESSAGE value="Nesting" />
     <MESSAGE value="while pattern" />
     <MESSAGE value="Function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function" />
+    <MESSAGE value="Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Matchstick.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Num_10101.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Pattern_Reverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Pattern.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -977,31 +973,17 @@
     <entry file="file://$PROJECT_DIR$/Input Function/Rental_Car.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/For_Practice/range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/For_Practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/For_Practice/table_print.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Practice/range_table.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1011,6 +993,37 @@
           <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Practice/List_Practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice_Programs/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Practice/range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Practice/range_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Practice/Prime_300.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
