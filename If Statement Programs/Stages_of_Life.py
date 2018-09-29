@@ -29,5 +29,5 @@ if age < 65:
 if age > 65:
     person = 'Elder'
 
-print(" The Person is " + person + ": " + str(age))
+print(" The Person is " + str(person) + ": " + str(age))
 

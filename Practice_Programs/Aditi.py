@@ -1,1 +1,1 @@
-print("jhghjgjkhg")
+print(5 & 4)
