@@ -2,7 +2,7 @@ alien_color = ['green', 'yellow', 'red']
 if 'green' in alien_color:
     print("He Earned 5 points")
 if 'white' in alien_color:
-    print("Wonderfull")
+    print("Wonderful")
 
 is_green_available = False
 
@@ -11,7 +11,7 @@ for alen in alien_color:
         is_green_available = True
 
 if is_green_available:
-    print("Avaiable")
+    print("Available")
 else:
     print("Not Found")
 

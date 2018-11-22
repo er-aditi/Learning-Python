@@ -1,3 +1,4 @@
+pizza = "null"
 Pizzas = ['onion', 'capsicum', 'corn']
 for pizza in Pizzas:
     print("I Like " + pizza.title() + " pizza")

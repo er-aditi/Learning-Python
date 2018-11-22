@@ -14,7 +14,7 @@ else:
 
 
 # if loop
-
+person = 'null'
 age = 500
 if age < 2:
     person = 'Baby'
@@ -29,5 +29,5 @@ if age < 65:
 if age > 65:
     person = 'Elder'
 
-print(" The Person is " + str(person) + ": " + str(age))
+print(" The Person is " + person + ": " + str(age))
 

@@ -21,7 +21,16 @@ print(bests)
 print("\n-----------------------------------------\n")
 
 for index in range(0, 3):
-    print(str(bests[index].title()) + " is the " + str(index + 1) + " player of chess. He scored " + str(
+    if index == 0:
+        sign = "st"
+    elif index == 1:
+        sign = "nd"
+    elif index == 2:
+        sign = "rd"
+    else:
+        sign = 'th'
+
+    print(str(bests[index].title()) + " is the " + str(index + 1) + sign + " player of chess. He scored " + str(
         scores_1[index]) + ".")
 # print(str(bests[index].title()) + " is the first player of chess. He scored " + str(scores_1[index]) + ".")
 # for score_1 in scores_1:

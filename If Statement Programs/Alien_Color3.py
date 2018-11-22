@@ -8,6 +8,7 @@ elif alien_color == 'red':
 
 
 # In single print
+point = 0
 
 alien_color = 'green'
 if alien_color == 'green':

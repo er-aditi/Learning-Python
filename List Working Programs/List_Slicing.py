@@ -6,3 +6,15 @@ print(names[:2])
 print(names[2:])
 print(names[:])
 print(names[-3:-1])
+
+""""
+harry, john, Tom
+ 'john', 'Tom', 'smith'
+'harry', 'john'
+ 'Tom', 'smith'
+
+'harry', 'john', 'Tom', 'smith'
+
+
+
+"""

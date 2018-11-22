@@ -12,7 +12,7 @@ print(rivers)
 print(cities)
 print(countries)
 countries.sort(reverse=True)
-countries.append('sri lanka')
+countries.append('Sri Lanka')
 print(countries)
 del cities[2]
 print(cities)

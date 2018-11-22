@@ -41,6 +41,7 @@ for value in values:
         print("data not mismatched")
 
 # Test whether an item is not in a list
+value = 1
 if value not in values:
-    value == 65
-    print("data mismatched")
+    if value == 65:
+        print("data mismatched")

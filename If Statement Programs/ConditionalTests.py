@@ -10,7 +10,7 @@ print(car_1 == 'toyota')
 
 print(car_1 == 'uri')
 
-if car_1 =='safari':
+if car_1 == 'safari':
     print("I want this car")
 else:
     print("I want " + car_1)

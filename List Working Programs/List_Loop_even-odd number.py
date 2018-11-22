@@ -4,7 +4,7 @@ print(even_numbers)
 for even_number in even_numbers:
     print("These are the even values: ".title() + str(even_number))
 
-print("\n")
+print("\n--------------------------")
 
 odd_numbers = list(range(1, 20, 2))
 print(odd_numbers)

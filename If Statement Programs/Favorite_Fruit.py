@@ -2,8 +2,10 @@ fruits = ['apple', 'banana', 'jelly', 'mango', 'blueberry']
 if 'apple' in fruits:
     print(" I Like Apples")
 
-if 'berry' in fruits:
-    print("It my fav. " + fruits)
+data = 'berry'
+if data in fruits:
+    print("It my fav. " + data)
+
 if 'blueberry' in fruits:
     print("Its my fav")
 
