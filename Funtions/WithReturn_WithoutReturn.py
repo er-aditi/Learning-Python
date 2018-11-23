@@ -15,6 +15,4 @@ def add2():
 sum1 = add1()
 print(sum1)
 
-
-sum2 = add2()
-print(sum2)
+add2()

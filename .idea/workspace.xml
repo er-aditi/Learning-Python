@@ -1,38 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2da4652-528c-4c4a-be97-07b7b29f2dac" name="Default" comment="Function_Type">
-      <change afterPath="$PROJECT_DIR$/Funtions/City Names return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funtions/Passing a List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funtions/Passing_arbitary_argument.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funtions/table1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/stpl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/stpl.xml" afterDir="false" />
+    <list default="true" id="e2da4652-528c-4c4a-be97-07b7b29f2dac" name="Default" comment="Revision">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/If Statement Programs/Alien_Color3.py" beforeDir="false" afterPath="$PROJECT_DIR$/If Statement Programs/Alien_Color3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/If Statement Programs/Alien_Colors1.py" beforeDir="false" afterPath="$PROJECT_DIR$/If Statement Programs/Alien_Colors1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/If Statement Programs/ConditionalPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/If Statement Programs/ConditionalPractice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/If Statement Programs/ConditionalTests.py" beforeDir="false" afterPath="$PROJECT_DIR$/If Statement Programs/ConditionalTests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/If Statement Programs/Favorite_Fruit.py" beforeDir="false" afterPath="$PROJECT_DIR$/If Statement Programs/Favorite_Fruit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/If Statement Programs/Multiple_Condtion_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/If Statement Programs/Multiple_Condtion_List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/If Statement Programs/Stages_of_Life.py" beforeDir="false" afterPath="$PROJECT_DIR$/If Statement Programs/Stages_of_Life.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/If Statement Programs/ValueIsNotinaList.py" beforeDir="false" afterPath="$PROJECT_DIR$/If Statement Programs/ValueIsNotinaList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Function/Even or odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Input Function/Even or odd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Integer_Programs/Interger str() Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Integer_Programs/Interger str() Function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List Working Programs/Cube_Comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/List Working Programs/Cube_Comprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List Working Programs/List_Loop_even-odd number.py" beforeDir="false" afterPath="$PROJECT_DIR$/List Working Programs/List_Loop_even-odd number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List Working Programs/List_Multiple_Threes.py" beforeDir="false" afterPath="$PROJECT_DIR$/List Working Programs/List_Multiple_Threes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List Working Programs/List_Odd_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/List Working Programs/List_Odd_Numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List Working Programs/List_Pizzas.py" beforeDir="false" afterPath="$PROJECT_DIR$/List Working Programs/List_Pizzas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List Working Programs/List_Slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/List Working Programs/List_Slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List Working Programs/List_Within a for Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/List Working Programs/List_Within a for Loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List Working Programs/Looping_Slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/List Working Programs/Looping_Slice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List_Programs/List_Every Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/List_Programs/List_Every Function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List_Programs/List_Reverse_Print.py" beforeDir="false" afterPath="$PROJECT_DIR$/List_Programs/List_Reverse_Print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators_Programs/Comparison Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Operators_Programs/Comparison Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators_Programs/Logical Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Operators_Programs/Logical Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_Programs/Aditi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Programs/Aditi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_Programs/print.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variable_Programs/variable simple message 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Programs/variable simple message 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adding Comments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/For_Practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funtions/Fact_no_argument_with_reutrn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Funtions/Fact_no_argument_with_reutrn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funtions/WithReturn_WithoutReturn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Funtions/WithReturn_WithoutReturn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_If_Condition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/While_Loop_Programs/List &amp; Dictonaries/Deli.py" beforeDir="false" afterPath="$PROJECT_DIR$/While_Loop_Programs/List &amp; Dictonaries/Deli.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,40 +57,41 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cfg" value="1" />
-          <entry key="py" value="285" />
+          <entry key="py" value="343" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="285" />
+          <entry key="Python" value="343" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="29" />
-          <entry key="py" value="10408" />
-          <entry key="txt" value="75" />
+          <entry key="py" value="10427" />
+          <entry key="txt" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="104" />
-          <entry key="Python" value="10408" />
+          <entry key="PLAIN_TEXT" value="113" />
+          <entry key="Python" value="10427" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
     </session>
@@ -122,16 +99,57 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sets-Programs/all symetric.py">
+        <entry file="file://$PROJECT_DIR$/Funtions/Evenwith_Return.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="221">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sets-Programs/Compare_Sets.py">
+        <entry file="file://$PROJECT_DIR$/Funtions/fact,table.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Funtions/Fact_no_argument_with_reutrn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Funtions/Fact_with_argument_return.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Funtions/Factotail_withArg_return.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Funtions/Fatc_no_ argument_no_return.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Funtions/Favorite Book.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
@@ -140,62 +158,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sets-Programs/differnce.py">
+        <entry file="file://$PROJECT_DIR$/Funtions/Fibonaci.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sets-Programs/discrad.py">
+        <entry file="file://$PROJECT_DIR$/Funtions/WithReturn_WithoutReturn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sets-Programs/Intersection.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sets-Programs/script.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sets-Programs/set from list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sets-Programs/Sets1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="11" selection-start-column="11" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sets-Programs/union.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            <state relative-caret-position="289">
+              <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Sets-Programs/update.py">
+        <entry file="file://$PROJECT_DIR$/Funtions/While_Loop_quit_condition.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
@@ -221,14 +202,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Funtions/Fact_no_argument_with_reutrn.py" />
-        <option value="$PROJECT_DIR$/Funtions/Prime_Fun.py" />
-        <option value="$PROJECT_DIR$/Funtions/Prime_With_Arg_With_Return.py" />
         <option value="$PROJECT_DIR$/Funtions/Prime_Witharg_noReturn.py" />
         <option value="$PROJECT_DIR$/Funtions/Prime_No_Arg_withreturn.py" />
         <option value="$PROJECT_DIR$/Funtions/prime_range.py" />
         <option value="$PROJECT_DIR$/Funtions/Prime_WithArg_NoReturnvalue.py" />
-        <option value="$PROJECT_DIR$/Funtions/WithReturn_WithoutReturn.py" />
         <option value="$PROJECT_DIR$/Funtions/Armstrong_Number_NOretrunNoArg.py" />
         <option value="$PROJECT_DIR$/Funtions/Arm No return no arg.py" />
         <option value="$PROJECT_DIR$/Funtions/Arm_withReturn-withArg.py" />
@@ -272,6 +249,10 @@
         <option value="$PROJECT_DIR$/Sets-Programs/add.py" />
         <option value="$PROJECT_DIR$/Sets-Programs/discrad.py" />
         <option value="$PROJECT_DIR$/Sets-Programs/Sets1.py" />
+        <option value="$PROJECT_DIR$/While_Loop_Programs/List &amp; Dictonaries/Deli.py" />
+        <option value="$PROJECT_DIR$/Funtions/Album.py" />
+        <option value="$PROJECT_DIR$/Funtions/Fact_no_argument_with_reutrn.py" />
+        <option value="$PROJECT_DIR$/Funtions/WithReturn_WithoutReturn.py" />
       </list>
     </option>
   </component>
@@ -295,6 +276,11 @@
             <path>
               <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Funtions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -330,7 +316,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Sets1">
+  <component name="RunManager" selected="Python.Album">
+    <configuration name="Album" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Funtions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funtions/Album.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Prime_Fun" type="PythonConfigurationType" factoryName="Python">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -344,6 +351,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funtions/Prime_Fun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Reverse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/Reverse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,7 +401,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="add" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Slicing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -381,11 +409,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sets-Programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets-Programs/add.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/Slicing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -394,7 +422,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="clear" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -402,53 +430,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sets-Programs/pop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets-Programs/pop/clear.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="discrad" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sets-Programs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets-Programs/discrad.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="remove" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sets-Programs/discared" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets-Programs/discared/remove.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -459,19 +445,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Prime_Fun" />
-      <item itemvalue="Python.remove" />
-      <item itemvalue="Python.clear" />
-      <item itemvalue="Python.add" />
-      <item itemvalue="Python.discrad" />
       <item itemvalue="Python.Sets1" />
+      <item itemvalue="Python.count" />
+      <item itemvalue="Python.Reverse" />
+      <item itemvalue="Python.Slicing" />
+      <item itemvalue="Python.Album" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Album" />
+        <item itemvalue="Python.Slicing" />
+        <item itemvalue="Python.Reverse" />
+        <item itemvalue="Python.count" />
         <item itemvalue="Python.Sets1" />
-        <item itemvalue="Python.discrad" />
-        <item itemvalue="Python.add" />
-        <item itemvalue="Python.clear" />
-        <item itemvalue="Python.remove" />
       </list>
     </recent_temporary>
   </component>
@@ -598,25 +584,33 @@
       <option name="project" value="LOCAL" />
       <updated>1539777110549</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Revision">
+      <created>1542893576432</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1542893576432</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22777778" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23174603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30153847" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920633" visible="true" weight="0.30153847" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39846155" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32872504" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50079364" side_tool="true" weight="0.30153847" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -642,312 +636,317 @@
     <MESSAGE value="Function_Type" />
     <MESSAGE value="WithArg_WithReturn" />
     <MESSAGE value="Time And Date" />
-    <option name="LAST_COMMIT_MESSAGE" value="Time And Date" />
+    <MESSAGE value="Revision" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revision" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Company_Policy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Cordinate_Match.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Denominations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/discount.py">
+    <entry file="file://$PROJECT_DIR$/String/Length.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Else_if.py">
+    <entry file="file://$PROJECT_DIR$/String/Practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="-2">
+          <caret line="15" column="74" lean-forward="true" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Factorial_Loop.py">
+    <entry file="file://$PROJECT_DIR$/String/Reverse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="85">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Fahrenheit_Centigrade.py">
+    <entry file="file://$PROJECT_DIR$/String/Slicing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String_Programs/String Famous Quote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String_Programs/String Famous Quote 2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String_Programs/String Name Cases.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Fine_Library.py">
+    <entry file="file://$PROJECT_DIR$/String_Programs/String Stripping Names.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Greatest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/If_Else.py">
+    <entry file="file://$PROJECT_DIR$/String_Programs/String_Personal Message.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Interchange.py">
+    <entry file="file://$PROJECT_DIR$/Tuple_Programs/Buffet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Km_Conversion.py">
+    <entry file="file://$PROJECT_DIR$/Tuple_Programs/Looping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="34">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Number_Sum.py">
+    <entry file="file://$PROJECT_DIR$/Tuple_Programs/tuple1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Odd _or_Even.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Overtime_Loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Palindrom.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Palindrome_String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Percentage_stud.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Prac1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Precedence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Prime_Number Check.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/print.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Prime_Number_1000.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Reverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Salary.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/square.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Student_Passed.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Swap.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/test_1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Till List Practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Triangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Triangle_find.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Triangle_Valid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/While_NumberSum.py">
+    <entry file="file://$PROJECT_DIR$/Tuple_Programs/Writing_over.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Working.py">
+    <entry file="file://$PROJECT_DIR$/Variable_Programs/variable simple message 1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Variable_Programs/variable_simple_message.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/List &amp; Dictonaries/Deli.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Youngest.py">
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/List &amp; Dictonaries/Filling_a_Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/List &amp; Dictonaries/Moving_Items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/List &amp; Dictonaries/Remove.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sets-Programs/discared/remove.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sets-Programs/pop/clear.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sets-Programs/add.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sets-Programs/all symetric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sets-Programs/Compare_Sets.py">
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/List &amp; Dictonaries/Removing_Specific_value.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sets-Programs/differnce.py">
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Add_Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sets-Programs/discrad.py">
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Add_Numver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sets-Programs/Intersection.py">
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Armstrong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Armstrong_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Check_Prime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Continue.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sets-Programs/script.py">
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Even_While.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sets-Programs/set from list.py">
+    <entry file="file://$PROJECT_DIR$/Adding Comments.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sets-Programs/Sets1.py">
+    <entry file="file://$PROJECT_DIR$/While_Loop_Programs/Factorial.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/Album.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        <state relative-caret-position="170">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sets-Programs/union.py">
+    <entry file="file://$PROJECT_DIR$/Funtions/Arm No return no arg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="221">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sets-Programs/update.py">
+    <entry file="file://$PROJECT_DIR$/Funtions/Arm_withReturn-NoArg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/Armstrong_withArg_noReturn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/ArmstrongWithReturnWithArg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/Calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/Cities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/City Names return.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/City-Country.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/Equivalent Function Calls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/Evenwith_Return.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/fact,table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/Fact_no_argument_with_reutrn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/Fact_with_argument_return.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/Factotail_withArg_return.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/Fatc_no_ argument_no_return.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/Favorite Book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/Fibonaci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/WithReturn_WithoutReturn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funtions/While_Loop_quit_condition.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />

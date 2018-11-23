@@ -1,4 +1,4 @@
-# no argument with reutrn value
+# no argument with return value
 num = int(input("Enter Number: "))
 
 

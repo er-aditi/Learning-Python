@@ -9,5 +9,5 @@ while sandwich_orders:
 
 
 print("\nFinished Sandwiches are---\n")
-for finished_sandwiche in finished_sandwiches:
-        print(finished_sandwiche.title() + " are finished")
+for finished_sandwich in finished_sandwiches:
+        print(finished_sandwich.title() + " are finished")
