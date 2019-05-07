@@ -1,4 +1,4 @@
-name = 'Vineet'
+name = 'aditi'
 print(name)
 name_1 = name[::-1]
 print(name_1)
