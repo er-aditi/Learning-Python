@@ -297,12 +297,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Palindrome_String" />
       <item itemvalue="Python.Prime_Fun" />
+      <item itemvalue="Python.Test" />
+      <item itemvalue="Python.Palindrome_String" />
+      <item itemvalue="Python.sort" />
       <item itemvalue="Python.Sum2 _digit" />
       <item itemvalue="Python.Test (1)" />
-      <item itemvalue="Python.Test" />
-      <item itemvalue="Python.sort" />
     </list>
     <recent_temporary>
       <list>
