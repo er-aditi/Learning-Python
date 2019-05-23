@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2da4652-528c-4c4a-be97-07b7b29f2dac" name="Default" comment="Selenium google">
-      <change afterPath="$PROJECT_DIR$/Selenium Scripts/Assert.py" afterDir="false" />
+    <list default="true" id="e2da4652-528c-4c4a-be97-07b7b29f2dac" name="Default" comment="Assert">
+      <change afterPath="$PROJECT_DIR$/Selenium Scripts/Login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium Scripts/Assert.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium Scripts/Assert.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Read and write file/Text.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/class/Simple_class.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -52,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Selenium Scripts/open google.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="187">
               <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -61,11 +53,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Selenium Scripts/Assert.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Selenium Scripts/Login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -86,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/Selenium Scripts/Myfirst script.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="73" />
+              <caret line="2" column="72" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -119,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/If Statement Programs/Multiple_Condtion_List.py" />
         <option value="$PROJECT_DIR$/If Statement Programs/Stages_of_Life.py" />
         <option value="$PROJECT_DIR$/If Statement Programs/ValueIsNotinaList.py" />
         <option value="$PROJECT_DIR$/List Working Programs/Cube_Comprehension.py" />
@@ -170,6 +173,7 @@
         <option value="$PROJECT_DIR$/class/init_passing_value.py" />
         <option value="$PROJECT_DIR$/Selenium Scripts/open google.py" />
         <option value="$PROJECT_DIR$/Selenium Scripts/Assert.py" />
+        <option value="$PROJECT_DIR$/Selenium Scripts/Login.py" />
       </list>
     </option>
   </component>
@@ -186,17 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Learning-Python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\Aditi\PycharmProjects\Learning-Python" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,6 +201,17 @@
               <item name="Learning-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning-Python" type="462c0819:PsiDirectoryNode" />
               <item name="Selenium Scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Learning-Python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Aditi\PycharmProjects\Learning-Python" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -244,7 +248,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in Assert.py">
+  <component name="RunManager" selected="Python.Login">
+    <configuration name="Login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Scripts/Login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Prime_Fun" type="PythonConfigurationType" factoryName="Python">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -308,27 +333,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple_init" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/simple_init.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Unittests for Assert.AssertTitle" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -361,17 +365,17 @@
       <item itemvalue="Python.Prime_Fun" />
       <item itemvalue="Python.init_passing_value" />
       <item itemvalue="Python.open google" />
-      <item itemvalue="Python.simple_init" />
       <item itemvalue="Python tests.Unittests in Assert.py" />
       <item itemvalue="Python tests.Unittests for Assert.AssertTitle" />
+      <item itemvalue="Python.Login" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Login" />
         <item itemvalue="Python tests.Unittests in Assert.py" />
         <item itemvalue="Python tests.Unittests for Assert.AssertTitle" />
         <item itemvalue="Python.open google" />
         <item itemvalue="Python.init_passing_value" />
-        <item itemvalue="Python.simple_init" />
       </list>
     </recent_temporary>
   </component>
@@ -568,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558355431660</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Assert">
+      <created>1558441558490</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1558441558490</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -643,7 +654,8 @@
     <MESSAGE value="Tech" />
     <MESSAGE value="Selenium" />
     <MESSAGE value="Selenium google" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium google" />
+    <MESSAGE value="Assert" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assert" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -657,9 +669,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Practice_Programs/Reverse.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice_Programs/Salary.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -869,19 +878,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Selenium Scripts/open google.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="187">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Read and write file/Simple.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium Scripts/Indiamart.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
@@ -890,17 +893,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium Scripts/Myfirst script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Selenium Scripts/Assert.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium Scripts/Indiamart.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Read and write file/Simple.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium Scripts/Myfirst script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="72" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium Scripts/Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
