@@ -10,5 +10,6 @@ def exceptionHandling():
     finally:
         print("This will work")
 
+
 exceptionHandling()
 
